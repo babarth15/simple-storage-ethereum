@@ -4,10 +4,10 @@ This repository contains a simple Solidity smart contract deployed and verified 
 
 ## Contract Details
 - **Network:** Ethereum Mainnet
-- **Contract Address:** 0xYOUR_CONTRACT_ADDRESS
-- **Etherscan:** https://etherscan.io/address/0xYOUR_CONTRACT_ADDRESS
+- **Contract Address:** 0x2e53481db8ec56D8D461E4dF9210e98bA1DD6B88
+- **Etherscan:** https://etherscan.io/address/0x2e53481db8ec56D8D461E4dF9210e98bA1DD6B88
 - **Deployment Tooling:** Remix IDE + MetaMask
-- **Solidity Version:** 0.8.x
+- **Solidity Version:** v0.8.31+commit.fd3a2265
 - **Verified:** Yes
 
 ## Description
