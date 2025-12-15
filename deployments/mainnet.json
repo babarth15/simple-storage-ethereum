@@ -1,0 +1,9 @@
+{
+  "network": "ethereum-mainnet",
+  "contract": "SimpleStorage",
+  "address": "0x2e53481db8ec56D8D461E4dF9210e98bA1DD6B88",
+  "deployed_by": "0x7b7052bc329B52663e0B621f855Cb32eF4Ff57b1",
+  "deployment_tool": "Remix + MetaMask",
+  "verified": true,
+  "etherscan": "https://etherscan.io/address/0x2e53481db8ec56D8D461E4dF9210e98bA1DD6B88"
+}
